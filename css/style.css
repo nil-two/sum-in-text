@@ -15,9 +15,10 @@ html, body, .app {
 }
 .sum-box {
   box-sizing: border-box;
-  padding-left: 50%;
+  float: right;
 }
 .text-box {
+  clear: both;
   box-sizing: border-box;
   padding: 0px 8px;
   width: 100%;
