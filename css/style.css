@@ -14,11 +14,13 @@ html, body {
 .app-title {
   font-size: 3.0rem;
 }
+
 .sum-box {
   float: right;
   padding: 8px;
   box-sizing: border-box;
 }
+
 .text-box {
   clear: both;
   width: 100%;
